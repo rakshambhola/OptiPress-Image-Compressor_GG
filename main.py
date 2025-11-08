@@ -1,5 +1,5 @@
 info="""===========================================================================
-Image Compressor Tool
+OptiPress-Image Compressor Tool
 ---------------------
 A simple and efficient Python script to compress JPG, JPEG, and PNG images
 without losing quality. It preserves EXIF/ICC data, handles transparency,
@@ -191,3 +191,4 @@ def main():
 if __name__ == "__main__":
     print(main())
     #exit()
+
