@@ -1,6 +1,11 @@
-# OptiPress-Image-Compressor-v.0.5.1_GG
+# OptiPress-Image-Compressor-v.GG
 ### 🔹 Simple • Fast • Lossless
 **OptiPress** - A lightweight yet powerful image compression tool that intelligently reduces image size without sacrificing quality. It preserves metadata, handles transparency, and maintains your original folder structure automatically.
+
+---
+
+---
+
 ## 🧠 Overview
 This tool allows you to:
 
@@ -32,13 +37,14 @@ This tool allows you to:
 **Required Libraries:**
 
 * `Pillow`
+* `tqdm`
 * `tkinter` *(included with Python)*
 * `shutil` *(standard library)*
 * `os` *(standard library)*
 
 Install required libraries:
 ```
-pip install Pillow
+pip install Pillow tqdm
 ```
 **or**
 ```bash
@@ -52,6 +58,7 @@ pip install -r requirements.txt
 ```
 Python - 3.12.7
 pillow - 11.3.0
+tqdm - 4.66.4
 ```
 
 ---
