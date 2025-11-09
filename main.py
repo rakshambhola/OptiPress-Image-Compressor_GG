@@ -333,10 +333,12 @@ def main():
 
 if __name__ == "__main__":
     try:
-        print(main())
+        main()
+        #print(main())
         exit()
     except Exception as e:
         print("\n\nError:",e)
         print("Please report this error to the developer: GitHub: https://github.com/rakshambhola")
         input("press enter to exit:")
         exit()
+
