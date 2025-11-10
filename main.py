@@ -15,6 +15,7 @@ try:
     import time
     from PIL import Image,ImageOps
     from tqdm import tqdm
+    import sys
     import os
     import shutil
     import tkinter as tk
@@ -23,7 +24,7 @@ except Exception as e:
     print("Error:",e)
     print("Please report this error to the developer: GitHub: https://github.com/rakshambhola")
     input("press enter to exit:")
-    exit()
+    sys.exit()
 print("Import Finished")
 
 # === CONFIGURATION ===
@@ -335,10 +336,11 @@ if __name__ == "__main__":
     try:
         main()
         #print(main())
-        exit()
+        sys.exit()
     except Exception as e:
         print("\n\nError:",e)
         print("Please report this error to the developer: GitHub: https://github.com/rakshambhola")
         input("press enter to exit:")
-        exit()
+        sys.exit()
+
 
