@@ -13,7 +13,8 @@
   <a href="#assets">Assets</a> •
   <a href="#overview">Overview</a> •
   <a href="#features">Features</a> •
-  <a href="#requirements">Requirements</a>
+  <a href="#requirements">Requirements</a> •
+  <a href="#roadmap">Roadmap</a> •
 </p>
 
 </div>
@@ -87,6 +88,36 @@ Python - 3.12.7
 pillow - 11.3.0
 tqdm - 4.66.4
 ```
+
+---
+
+## Roadmap
+
+### Phase 1: Core Features ✅
+- [x] Folder & File Selection
+- [x] Folder Structure Preservation
+- [x] Lossless Compression
+- [x] Timestamp Preservation
+- [x] Transparency Handling
+- [x] Auto Duplicate Handling
+- [x] Report system as a pop-up
+
+### Phase 2: Enhancements 🚧
+- [x] Progress Bar
+- [x] Additional Image formats
+- [x] Save Logs
+- [ ] Support for Video Files
+- [ ] Compress to Defined Size
+- [ ] CLI to basic GUI Application
+- [ ] Support for more different file types
+- [ ] Push notifications
+
+### Phase 3: Scale & Polish 📋
+- [ ] Basic to Modern GUI
+- [ ] Analytics dashboard
+- [ ] Web App
+- [ ] Mobile App
+- [ ] AI-powered image enhancement
 
 ---
 
