@@ -6,20 +6,15 @@
 
 ### *File Compressor*
 
-[![Release](https://img.shields.io/badge/Release-7.1-blue?style=for-the-badge&logo=github)](https://github.com/rakshambhola/OptiPress-Image-Compressor_GG/releases)
+[![Release](https://img.shields.io/badge/Release-0.7.1-blue?style=for-the-badge&logo=github)](https://github.com/rakshambhola/OptiPress-Image-Compressor_GG/releases)
 [![Python](https://img.shields.io/badge/Python-3.12.7-green?style=for-the-badge&logo=python)](https://www.python.org/)
 
 <p align="center">
-  <a href="?tab=readme-ov-file#assets">Assets</a> •
-  <a href="#installation">Installation</a> •
-  <a href="#usage">Usage</a> •
-  <a href="#scope-control">Scope</a> •
-  <a href="#crawler-configuration">Config</a> •
-  <a href="#filters">Filters</a> •
-  <a href="https://discord.gg/projectdiscovery">Join Discord</a>
+  <a href="#assets">Assets</a> •
+  <a href="#overview">Overview</a> •
+  <a href="#features">Features</a> •
+  <a href="#requirements">Requirements</a>
 </p>
-
-[🚀 Live Demo](#) • [📖 Documentation](#) • [🐛 Report Bug](#) • [✨ Request Feature](#)
 
 </div>
 
@@ -30,14 +25,14 @@
 **OptiPress** - A lightweight yet powerful image compression tool that intelligently reduces image size without sacrificing quality. It preserves metadata, handles transparency, and maintains your original folder structure automatically.
 
 ---
-## 📂Assets
+## Assets
 
 * Latest Release: [OptiPress-Image-Compressor-v.0.7.1_GG.zip](https://github.com/rakshambhola/OptiPress-Image-Compressor_GG/releases/download/v.0.7.1_GG/OptiPress-Image-Compressor-v.0.7.1_GG.zip)
 * Release: [OptiPress-Image-Compressor-v.0.5.1_GG.zip](https://github.com/rakshambhola/OptiPress-Image-Compressor-v.0.5.1_GG/releases/download/v.0.5.1_GG/OptiPress-Image-Compressor-v.0.5.1_GG.zip)
 
 ---
 
-## 🧠 Overview
+## Overview
 This tool allows you to:
 
 * Compress individual image files or entire folders.
@@ -49,7 +44,7 @@ This tool allows you to:
 
 ---
 
-## 🪶 Features
+## Features
 
 | Feature                          | Description                                                                |
 | -------------------------------- | -------------------------------------------------------------------------- |
